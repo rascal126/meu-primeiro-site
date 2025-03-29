@@ -1,0 +1,41 @@
+body {
+    color: white;
+    background-color: black;
+}
+
+header img{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    border: 5px solid red;
+ } 
+
+ .center{ 
+    text-align: center;
+}
+
+ul {
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+    align-items: center;
+    padding: 16px;
+}
+
+a{
+    color: white;
+    text-decoration: none;
+}
+
+input{
+    width: 100%;
+    padding: 8px 0px;
+    margin: 8px 0px;
+}
+
+button {
+    background-color: white;
+    border: none;
+    width: 100px;
+    height: 30px;
+}
